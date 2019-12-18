@@ -1,2 +1,2 @@
-# samples-genwriting
-General writing samples
+# samples
+Writing samples
